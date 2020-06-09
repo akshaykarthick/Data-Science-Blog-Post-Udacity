@@ -12,15 +12,15 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This is an Udacity Nanodegree project. I chose FIFA 19 complete player dataset. 
+This is an Udacity Nanodegree project. I chose FIFA 20 complete player dataset. 
 
 As a football fan,  it would be quite interesting to apply data analysis skills here. 
 
 My key interests would be:
 
-1. What's the ratio of  total wages/ total potential for clubs. Which clubs are the most economical ？
-2. How is nation team player total market value distributed? Probably show a distribution plot in a world map?
-3. How is a player's skilsl set influence his potential/wage? Can we predict a player's potential based on his skills' set? 
+1. 
+2. 
+3.  
 
 ## File Descriptions <a name="files"></a>
 
@@ -38,4 +38,4 @@ The main findings of the code can be found at the [post](https://medium.com/@u05
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity courses for some of code ideas, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
