@@ -18,9 +18,9 @@ As a football fan,  it would be quite interesting to apply data analysis skills 
 
 My key interests would be:
 
-1. 
-2. 
-3.  
+1. Which type of players costs more money for a team (Value) ? and which type of players earn the most (Wage)?
+2. What are the top 5 features that influences the value and wage of a player ?
+3. How are skills distributed among different category of players (Forward, Midfield and Defense) ? 
 
 ## File Descriptions <a name="files"></a>
 
