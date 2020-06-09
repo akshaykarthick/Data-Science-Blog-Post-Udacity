@@ -4,11 +4,11 @@ Write a Data Science blog post
 
 ## Table of Contents
 
-    Installation
-    Project Motivation
-    File Description
-    Results
-    Licensing, Authors, and Acknowledgements
+   * Installation
+   * Project Motivation
+   * File Description
+   * Results
+   * Licensing, Authors, and Acknowledgements
 
 ## Installation
 
