@@ -1,48 +1,41 @@
-# Data-Science-Blog-Post-Udacity
-Data Science blog post for a udacity nanodegree program
-Write a Data Science blog post
+### Table of Contents
 
-## Table of Contents
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Description](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-   * Installation
-   * Project Motivation
-   * File Description
-   * Results
-   * Licensing, Authors, and Acknowledgements
+## Installation <a name="installation"></a>
 
-## Installation
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute:
-pip install -r requirements.txt
+## Project Motivation<a name="motivation"></a>
 
-You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download here.
+This is an Udacity Nanodegree project. I chose FIFA 19 complete player dataset. 
 
-To move the downloaded files to the specific folder, you can execute.
+As a football fan,  it would be quite interesting to apply data analysis skills here. 
 
-    Stackoverflow’s 2017 data
-    mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv
+My key interests would be:
 
-    Stackoverflow’s 2018 data
-    mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_results_public.csv
+1. What's the ratio of  total wages/ total potential for clubs. Which clubs are the most economical ？
+2. How is nation team player total market value distributed? Probably show a distribution plot in a world map?
+3. How is a player's skilsl set influence his potential/wage? Can we predict a player's potential based on his skills' set? 
 
-## Project Motivation
+## File Descriptions <a name="files"></a>
 
-This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:
+Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc. 
 
-    What are the most used programming languages in Brazil?
-    What are the most wanted programming languages in Brazil?
-    How does programming languages used at work relates with programming languages people want to learn?
+There is also a notebook available here to showcsae all my work related to my three questions.
 
-## File Description
 
-exploratory_analysis.ipynb: Notebook containing the data analysis.
-data/2017/survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey data.
-data/2018/survey_results_public.csv: Stackoverflow's 2018 Annual Developer Survey data.
 
-## Results
+## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here
+The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
 
-## Licensing, Authors, Acknowledgements
 
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available here.
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
