@@ -8,15 +8,15 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python version 3
 
 ## Project Motivation<a name="motivation"></a>
 
 This is an Udacity Nanodegree project. I chose FIFA 20 complete player dataset. 
 
-As a football fan,  it would be quite interesting to apply data analysis skills here. 
+I am a sports fan and like playing with stats related to sports 
 
-My key interests would be:
+The questions that I am looking :
 
 1. Which type of players costs more money for a team (Value) ? and which type of players earn the most (Wage)?
 2. What are the top 5 features that influences the value and wage of a player ?
@@ -24,9 +24,9 @@ My key interests would be:
 
 ## File Descriptions <a name="files"></a>
 
-Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc. 
+players_20.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc. 
 
-There is also a notebook available here to showcsae all my work related to my three questions.
+Soccer_Stats.ipynb is a python notebook to showcsae all my work related to the questions.
 
 
 
