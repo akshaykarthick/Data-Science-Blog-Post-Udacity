@@ -32,10 +32,10 @@ Soccer_Stats.ipynb is a python notebook to showcsae all my work related to the q
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
+The findings of analysis are available in this medium [blog](https://medium.com/@akshaykarthickm/sports-and-stats-soccer-through-the-eyes-of-a-statistician-e4bfb4db5d2b)
 
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Udacity courses for some of code ideas, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
+Credit to Udacity courses for code ideas, and kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv). Otherwise, feel free to use the code here
